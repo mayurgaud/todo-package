@@ -1,0 +1,22 @@
+{
+  "name": "todo-package",
+  "version": "1.0.0",
+  "description": "Todo list package",
+  "main": "pages/tasks/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mayurgaud/todo-package.git"
+  },
+  "keywords": [
+    "todolist"
+  ],
+  "author": "Mayur Gaud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayurgaud/todo-package/issues"
+  },
+  "homepage": "https://github.com/mayurgaud/todo-package#readme"
+}
